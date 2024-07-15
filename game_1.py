@@ -4,3 +4,5 @@ if(working):
   print(game1)
 else:
   print("Game Not work")
+
+game2 = "BGMI"
